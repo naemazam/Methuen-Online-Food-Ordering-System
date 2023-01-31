@@ -31,7 +31,7 @@ Cancel Orders
 Customer Management
 Total Earnings
 
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: onlinefoodphp**
 
