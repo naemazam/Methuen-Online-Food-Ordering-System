@@ -34,12 +34,11 @@ In addition to it, an admin can have an overview number of the existing total or
 - Customer Management
 - Total Earnings
 
-
-
-**Database Name: onlinefoodphp**
-
+# Recommended
 
 **Recommended PHP Version 5.6, 7.4**
+
+Database Name: onlinefoodphp
 
 
 # Admin Login Details
@@ -50,6 +49,7 @@ Password: theterminalboy
 
 # User 
 
-user1@mail.com
+user1
+
 123456789
 
