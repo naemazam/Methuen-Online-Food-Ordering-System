@@ -19,31 +19,36 @@ In addition to it, an admin can have an overview number of the existing total or
 
 
 # Available Features:
-Client-Side
-Admin Panel
-Filter Food Items
-Filter Restaurants
-Order Foods
-Add to cart system
-View personal orders
-Restaurant Management
-Food Category Management
-Food Menu Management
-Manage Food Orders
-Cancel Orders
-Customer Management
-Total Earnings
+- Client-Side
+- Admin Panel
+- Filter Food Items
+- Filter Restaurants
+- Order Foods
+- Add to cart system
+- View personal orders
+- Restaurant Management
+- Food Category Management
+- Food Menu Management
+- Manage Food Orders
+- Cancel Orders
+- Customer Management
+- Total Earnings
 
 
 
 **Database Name: onlinefoodphp**
 
+
 **Recommended PHP Version 5.6, 7.4**
 
-**Admin Login Details**
+
+# Admin Login Details
 
 Username: admin
+
 Password: theterminalboy
+
+# User 
 
 user1@mail.com
 123456789
